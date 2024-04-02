@@ -1,0 +1,2 @@
+export const FETCH_DATA_SUCCESS = 'FETCH_DATA_SUCCESS';
+export const SET_FILTERS = 'SET_FILTERS';
